@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: rgba(255, 255, 255, 1);
+}
+
+#card-deck{
+    background: rgb(185,147,214);
+    background: linear-gradient(45deg, rgba(185,147,214,1) 0%, rgba(140,166,219,1) 100%);
+    border: none;
+}
+
+footer{
+    background: rgb(185,147,214);
+    background: linear-gradient(45deg, rgba(185,147,214,1) 0%, rgba(140,166,219,1) 100%);
+    border: none;
+}
+
+#icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+}
+
+#contactForm{
+    background-color: rgba(255, 255, 255, 0.25);
+}
+

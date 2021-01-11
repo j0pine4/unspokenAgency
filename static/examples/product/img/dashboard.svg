@@ -1,0 +1,686 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2130 1651" width="2130" height="1651">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-142 -130L2258 -130L2258 1670L-142 1670Z" />
+		</clipPath>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="flt1"> <feGaussianBlur stdDeviation="50" /> </filter>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="1536" y1="844" x2="1536" y2="236">
+			<stop offset="0" stop-color="#e6edfa"  />
+			<stop offset="1" stop-color="#ffffff"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="1582.296" y1="593.88" x2="1608.275" y2="617.384">
+			<stop offset="0" stop-color="#1529bc"  />
+			<stop offset="0.625" stop-color="#ed71d7"  />
+			<stop offset="1" stop-color="#efd4ff"  />
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M1170 585L1194 585C1211.7 585 1226 599.3 1226 617L1226 641C1226 658.7 1211.7 673 1194 673L1170 673C1152.3 673 1138 658.7 1138 641L1138 617C1138 599.3 1152.3 585 1170 585Z" />
+		</clipPath>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="1606.094" y1="768.987" x2="1592.764" y2="745.897">
+			<stop offset="0" stop-color="#ff8f6f"  />
+			<stop offset="0.479" stop-color="#ffc46d"  />
+			<stop offset="1" stop-color="#faec45"  />
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="M1170 738L1194 738C1211.7 738 1226 752.3 1226 770L1226 794C1226 811.7 1211.7 826 1194 826L1170 826C1152.3 826 1138 811.7 1138 794L1138 770C1138 752.3 1152.3 738 1170 738Z" />
+		</clipPath>
+		<linearGradient id="grd4" gradientUnits="userSpaceOnUse"  x1="1606.094" y1="913.987" x2="1592.764" y2="890.897">
+			<stop offset="0" stop-color="#ff8f6f"  />
+			<stop offset="0.479" stop-color="#ffc46d"  />
+			<stop offset="1" stop-color="#faec45"  />
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="M1170 883L1194 883C1211.7 883 1226 897.3 1226 915L1226 939C1226 956.7 1211.7 971 1194 971L1170 971C1152.3 971 1138 956.7 1138 939L1138 915C1138 897.3 1152.3 883 1170 883Z" />
+		</clipPath>
+		<linearGradient id="grd5" gradientUnits="userSpaceOnUse"  x1="1606.094" y1="1058.987" x2="1592.764" y2="1035.897">
+			<stop offset="0" stop-color="#ff8f6f"  />
+			<stop offset="0.479" stop-color="#ffc46d"  />
+			<stop offset="1" stop-color="#faec45"  />
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp5">
+			<path d="M1170 1028L1194 1028C1211.7 1028 1226 1042.3 1226 1060L1226 1084C1226 1101.7 1211.7 1116 1194 1116L1170 1116C1152.3 1116 1138 1101.7 1138 1084L1138 1060C1138 1042.3 1152.3 1028 1170 1028Z" />
+		</clipPath>
+		<linearGradient id="grd6" gradientUnits="userSpaceOnUse"  x1="1606.094" y1="1203.987" x2="1592.764" y2="1180.897">
+			<stop offset="0" stop-color="#ff8f6f"  />
+			<stop offset="0.479" stop-color="#ffc46d"  />
+			<stop offset="1" stop-color="#faec45"  />
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp6">
+			<path d="M1170 1173L1194 1173C1211.7 1173 1226 1187.3 1226 1205L1226 1229C1226 1246.7 1211.7 1261 1194 1261L1170 1261C1152.3 1261 1138 1246.7 1138 1229L1138 1205C1138 1187.3 1152.3 1173 1170 1173Z" />
+		</clipPath>
+		<linearGradient id="grd7" gradientUnits="userSpaceOnUse"  x1="158" y1="332" x2="158" y2="396">
+			<stop offset="0" stop-color="#ffeae3"  />
+			<stop offset="1" stop-color="#ffd0c2"  />
+		</linearGradient>
+		<linearGradient id="grd8" gradientUnits="userSpaceOnUse"  x1="158" y1="461" x2="158" y2="525">
+			<stop offset="0" stop-color="#f4faff"  />
+			<stop offset="1" stop-color="#e5f3ff"  />
+		</linearGradient>
+		<linearGradient id="grd9" gradientUnits="userSpaceOnUse"  x1="203.255" y1="575.745" x2="112.745" y2="666.255">
+			<stop offset="0" stop-color="#fbe500"  />
+			<stop offset="1" stop-color="#f5c600"  />
+		</linearGradient>
+		<linearGradient id="grd10" gradientUnits="userSpaceOnUse"  x1="158" y1="847" x2="158" y2="919">
+			<stop offset="0" stop-color="#f4faff"  />
+			<stop offset="1" stop-color="#e5f3ff"  />
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp7">
+			<path d="M444 93C459.46 93 472 80.46 472 65C472 49.54 459.46 37 444 37C428.54 37 416 49.54 416 65C416 80.46 428.54 93 444 93Z" />
+		</clipPath>
+		<linearGradient id="grd11" gradientUnits="userSpaceOnUse"  x1="989.067" y1="340.114" x2="574.471" y2="550.12">
+			<stop offset="0" stop-color="#1529bc"  />
+			<stop offset="0.625" stop-color="#ed71d7"  />
+			<stop offset="1" stop-color="#efd4ff"  />
+		</linearGradient>
+		<linearGradient id="grd12" gradientUnits="userSpaceOnUse"  x1="956.217" y1="583.009" x2="799.778" y2="351.065">
+			<stop offset="0" stop-color="#ff8f6f"  />
+			<stop offset="0.479" stop-color="#ffc46d"  />
+			<stop offset="1" stop-color="#faec45"  />
+		</linearGradient>
+		<linearGradient id="grd13" gradientUnits="userSpaceOnUse"  x1="624.871" y1="661.351" x2="657.343" y2="690.729">
+			<stop offset="0" stop-color="#1529bc"  />
+			<stop offset="0.625" stop-color="#ed71d7"  />
+			<stop offset="1" stop-color="#efd4ff"  />
+		</linearGradient>
+		<linearGradient id="grd14" gradientUnits="userSpaceOnUse"  x1="841.618" y1="688.984" x2="824.955" y2="660.122">
+			<stop offset="0" stop-color="#ff8f6f"  />
+			<stop offset="0.479" stop-color="#ffc46d"  />
+			<stop offset="1" stop-color="#faec45"  />
+		</linearGradient>
+		<linearGradient id="grd15" gradientUnits="userSpaceOnUse"  x1="1672" y1="33" x2="1672" y2="97">
+			<stop offset="0" stop-color="#ffeae3"  />
+			<stop offset="1" stop-color="#ffd0c2"  />
+		</linearGradient>
+		<linearGradient id="grd16" gradientUnits="userSpaceOnUse"  x1="983.01" y1="352.732" x2="963.848" y2="319.54">
+			<stop offset="0" stop-color="#ff8f6f"  />
+			<stop offset="0.479" stop-color="#ffc46d"  />
+			<stop offset="1" stop-color="#faec45"  />
+		</linearGradient>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="flt2"> <feGaussianBlur stdDeviation="49.98" /> </filter>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp8">
+			<path d="M1201.97 434.99L1225.96 434.99C1243.65 434.99 1257.95 449.28 1257.95 466.97L1257.95 490.96C1257.95 508.65 1243.65 522.95 1225.96 522.95L1201.97 522.95C1184.29 522.95 1169.99 508.65 1169.99 490.96L1169.99 466.97C1169.99 449.28 1184.29 434.99 1201.97 434.99Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill-opacity: 0.878;filter: url(#flt1);fill: #061058 } 
+		.shp1 { opacity: 0.604;fill: url(#grd1) } 
+		.shp2 { fill: #e1e2eb } 
+		.txt3 { font-size: 20px;line-height: 24px;fill: #061058;font-weight: 600;font-family: "Poppins-SemiBold", "Poppins" } 
+		.txt4 { font-size: 14px;fill: #b4b7cc;font-weight: 500;font-family: "Poppins-Medium", "Poppins" } 
+		.txt5 { font-size: 18px;fill: #5735ce;font-weight: 500;font-family: "Poppins-Medium", "Poppins" } 
+		.shp6 { fill: url(#grd2) } 
+		.txt7 { font-size: 18px;fill: #061058;font-weight: 500;font-family: "Poppins-Medium", "Poppins";text-anchor: end } 
+		.shp8 { fill: #c2d2ed } 
+		.txt9 { font-size: 18px;fill: #f9ad52;font-weight: 500;font-family: "Poppins-Medium", "Poppins" } 
+		.shp10 { fill: url(#grd3) } 
+		.shp11 { fill: url(#grd4) } 
+		.shp12 { fill: url(#grd5) } 
+		.shp13 { fill: url(#grd6) } 
+		.txt14 { font-size: 16px;fill: #061058;font-weight: 500;font-family: "Poppins-Medium", "Poppins" } 
+		.txt15 { font-size: 16px;fill: #061058;font-weight: 500;font-family: "Poppins-Medium", "Poppins";text-anchor: end } 
+		.shp16 { opacity: 0.6;fill: #ffffff;stroke: #cdd0e3;stroke-opacity:0.3 } 
+		.txt17 { font-size: 32px;line-height: 30px;fill: #061058;font-weight: 500;font-family: "Poppins-Medium", "Poppins" } 
+		.shp18 { opacity: 0.502;fill: url(#grd7) } 
+		.shp19 { fill: none;stroke: #4ba0ea;stroke-linecap:square;stroke-width: 2 } 
+		.shp20 { fill: none;stroke: #071354;stroke-linecap:square;stroke-width: 2 } 
+		.shp21 { opacity: 0.4;fill: #b4b7cc } 
+		.shp22 { fill: url(#grd8) } 
+		.shp23 { fill: none;stroke: #4ba0ea;stroke-width: 2 } 
+		.shp24 { opacity: 0.184;fill: url(#grd9) } 
+		.shp25 { fill: none;stroke: #071354;stroke-width: 2 } 
+		.shp26 { opacity: 0.6;fill: #ffffff } 
+		.txt27 { font-size: 20px;line-height: 24px;fill: #061058;font-weight: 600;font-family: "Poppins-SemiBold", "Poppins";text-anchor: middle } 
+		.txt28 { font-size: 14px;fill: #b4b7cc;font-weight: 500;font-family: "Poppins-Medium", "Poppins";text-anchor: middle } 
+		.shp29 { fill-opacity: 0.51;filter: url(#flt1);fill: #061058 } 
+		.shp30 { fill: #ffffff } 
+		.shp31 { opacity: 0.067;fill: #7c76bb } 
+		.shp32 { fill: none;stroke: #061058;stroke-linecap:round;stroke-width: 2 } 
+		.shp33 { fill: url(#grd10) } 
+		.shp34 { fill: none;stroke: #071354;stroke-linecap:square;stroke-width: 2.25 } 
+		.shp35 { fill: none;stroke: #4ba0ea;stroke-linecap:square;stroke-width: 2.25 } 
+		.shp36 { fill: none;stroke: #4ba0ea;stroke-width: 2.25 } 
+		.shp37 { fill: #0500af } 
+		.shp38 { fill: #010031 } 
+		.shp39 { opacity: 0.349;mix-blend-mode: overlay;fill: #3e4552 } 
+		.shp40 { fill: #b3e5fc } 
+		.shp41 { fill: #4fc3f7 } 
+		.shp42 { fill: #2196f3 } 
+		.shp43 { fill: #ffffff;stroke: #cdd0e3;stroke-opacity:0.3 } 
+		.shp44 { fill: #f3f5f8 } 
+		.shp45 { fill: url(#grd11) } 
+		.shp46 { fill: url(#grd12) } 
+		.txt47 { font-size: 32px;line-height: 30px;fill: #061058;font-weight: 500;font-family: "Poppins-Medium", "Poppins";text-anchor: middle } 
+		.txt48 { font-size: 12px;line-height: 20px;fill: #061058;font-weight: 400;font-family: "Poppins-Regular", "Poppins";text-anchor: middle } 
+		.shp49 { fill: url(#grd13) } 
+		.shp50 { fill: url(#grd14) } 
+		.shp51 { fill-opacity: 0.259;filter: url(#flt1);fill: #22253b } 
+		.shp52 { opacity: 0.502;fill: url(#grd15) } 
+		.shp53 { fill-opacity: 0.58;filter: url(#flt1);fill: #061058 } 
+		.txt54 { font-size: 20px;fill: #111c60;font-weight: 600;font-family: "Poppins-SemiBold", "Poppins" } 
+		.shp55 { filter: url(#flt1);fill: #000841 } 
+		.shp56 { fill: url(#grd16) } 
+		.txt57 { font-size: 16px;fill: #b4b7cc;font-weight: 500;font-family: "Poppins-Medium", "Poppins" } 
+		.shp58 { opacity: 0.702;fill-opacity: 0.651;filter: url(#flt1);fill: #061058 } 
+		.shp59 { opacity: 0.702;fill: #ffffff } 
+		.shp60 { fill: #2a336b } 
+		.shp61 { fill-opacity: 0.4;filter: url(#flt2);fill: #3e4368 } 
+		.txt62 { font-size: 18px;fill: #ff8b8b;font-weight: 500;font-family: "Poppins-Medium", "Poppins" } 
+		.shp63 { fill: #ff8b8b } 
+		.txt64 { font-size: 18px;fill: #061058;font-weight: 500;font-family: "Poppins-Medium", "Poppins";text-anchor: middle } 
+	</style>
+	<g id="Dribbble showcase -  earnings report - designed by Tran Mau Tri Tam" clip-path="url(#cp1)">
+		<g id="card 1">
+			<g id="Group 10">
+				<g id="Background">
+					<path id="Shadow" class="shp0" d="M1147.5 703L1924.5 703C1929.75 703 1934 707.25 1934 712.5L1934 712.5C1934 717.75 1929.75 722 1924.5 722L1147.5 722C1142.25 722 1138 717.75 1138 712.5L1138 712.5C1138 707.25 1142.25 703 1147.5 703Z" />
+					<path id="Mask" class="shp1" d="M1138 236L1934 236C1951.7 236 1966 250.3 1966 268L1966 812C1966 829.7 1951.7 844 1934 844L1138 844C1120.3 844 1106 829.7 1106 812L1106 268C1106 250.3 1120.3 236 1138 236Z" />
+				</g>
+				<g id="Group 5">
+					<g id="Group 7">
+						<path id="Rectangle" class="shp2" d="M1138 705L1934 705L1934 706L1138 706L1138 705Z" />
+						<g id="Group 6">
+							<g id="Title">
+								<text id="Working Business Man" style="transform: matrix(1,0,0,1,1250,595)" >
+									<tspan x="0" y="20" class="txt3">Working Business Man - Flat Line Illustration</tspan>
+								</text>
+								<text id="SketchApp" style="transform: matrix(1,0,0,1,1250,648.8)" >
+									<tspan x="0" y="14" class="txt4">SketchApp</tspan>
+								</text>
+							</g>
+						</g>
+						<g id="Category">
+							<text id="Graphic Template" style="transform: matrix(1,0,0,1,1612,609)" >
+								<tspan x="0" y="0" class="txt5">Graphic Template</tspan>
+							</text>
+							<path id="Rectangle" class="shp6" d="M1596 596L1596 596C1600.42 596 1604 599.58 1604 604L1604 604C1604 608.42 1600.42 612 1596 612L1596 612C1591.58 612 1588 608.42 1588 604L1588 604C1588 599.58 1591.58 596 1596 596Z" />
+						</g>
+						<text id="Earning" style="transform: matrix(1,0,0,1,1934,595.6)" >
+							<tspan x="0" y="18" class="txt7">$19.00</tspan>
+						</text>
+						<path id="Mask" class="shp8" d="M1170 585L1194 585C1211.7 585 1226 599.3 1226 617L1226 641C1226 658.7 1211.7 673 1194 673L1170 673C1152.3 673 1138 658.7 1138 641L1138 617C1138 599.3 1152.3 585 1170 585Z" />
+						<g id="Mask by Mask" clip-path="url(#cp2)">
+						</g>
+					</g>
+					<g id="Group 7 Copy" style="opacity: 0.4">
+						<g id="Group 6">
+							<g id="Title">
+								<text id="Sugus - Clean &amp; Mini" style="transform: matrix(1,0,0,1,1250,748)" >
+									<tspan x="0" y="20" class="txt3">Sugus - Clean &amp; Minimal UI Design Kit</tspan>
+								</text>
+								<text id="Adobe Illustration" style="transform: matrix(1,0,0,1,1250,801.8)" >
+									<tspan x="0" y="14" class="txt4">Adobe Illustration</tspan>
+								</text>
+							</g>
+						</g>
+						<g id="Category">
+							<text id="UI Design" style="transform: matrix(1,0,0,1,1612,747.6)" >
+								<tspan x="0" y="18" class="txt9">UI Design</tspan>
+							</text>
+							<path id="Rectangle" class="shp10" d="M1596 749L1596 749C1600.42 749 1604 752.58 1604 757L1604 757C1604 761.42 1600.42 765 1596 765L1596 765C1591.58 765 1588 761.42 1588 757L1588 757C1588 752.58 1591.58 749 1596 749Z" />
+						</g>
+						<text id="Earning" style="transform: matrix(1,0,0,1,1934,748.6)" >
+							<tspan x="0" y="18" class="txt7">$96.00</tspan>
+						</text>
+						<path id="Mask" class="shp8" d="M1170 738L1194 738C1211.7 738 1226 752.3 1226 770L1226 794C1226 811.7 1211.7 826 1194 826L1170 826C1152.3 826 1138 811.7 1138 794L1138 770C1138 752.3 1152.3 738 1170 738Z" />
+						<g id="Mask by Mask" clip-path="url(#cp3)">
+						</g>
+					</g>
+					<g id="Group 7 Copy 2" style="opacity: 0.4">
+						<g id="Group 6">
+							<g id="Title">
+								<text id="Sugus - Clean &amp; Mini" style="transform: matrix(1,0,0,1,1250,893)" >
+									<tspan x="0" y="20" class="txt3">Sugus - Clean &amp; Minimal UI Design Kit</tspan>
+								</text>
+								<text id="SketchApp" style="transform: matrix(1,0,0,1,1250,946.8)" >
+									<tspan x="0" y="14" class="txt4">SketchApp</tspan>
+								</text>
+							</g>
+						</g>
+						<g id="Category">
+							<text id="UI Design" style="transform: matrix(1,0,0,1,1612,892.6)" >
+								<tspan x="0" y="18" class="txt9">UI Design</tspan>
+							</text>
+							<path id="Rectangle" class="shp11" d="M1596 894L1596 894C1600.42 894 1604 897.58 1604 902L1604 902C1604 906.42 1600.42 910 1596 910L1596 910C1591.58 910 1588 906.42 1588 902L1588 902C1588 897.58 1591.58 894 1596 894Z" />
+						</g>
+						<text id="Earning" style="transform: matrix(1,0,0,1,1934,893.6)" >
+							<tspan x="0" y="18" class="txt7">$96.00</tspan>
+						</text>
+						<path id="Mask" class="shp8" d="M1170 883L1194 883C1211.7 883 1226 897.3 1226 915L1226 939C1226 956.7 1211.7 971 1194 971L1170 971C1152.3 971 1138 956.7 1138 939L1138 915C1138 897.3 1152.3 883 1170 883Z" />
+						<g id="Mask by Mask" clip-path="url(#cp4)">
+						</g>
+					</g>
+					<g id="Group 7 Copy 3" style="opacity: 0.2">
+						<g id="Group 6">
+							<g id="Title">
+								<text id="Sugus - Clean &amp; Mini" style="transform: matrix(1,0,0,1,1250,1038)" >
+									<tspan x="0" y="20" class="txt3">Sugus - Clean &amp; Minimal UI Design Kit</tspan>
+								</text>
+								<text id="SketchApp" style="transform: matrix(1,0,0,1,1250,1091.8)" >
+									<tspan x="0" y="14" class="txt4">SketchApp</tspan>
+								</text>
+							</g>
+						</g>
+						<g id="Category">
+							<text id="UI Design" style="transform: matrix(1,0,0,1,1612,1037.6)" >
+								<tspan x="0" y="18" class="txt9">UI Design</tspan>
+							</text>
+							<path id="Rectangle" class="shp12" d="M1596 1039L1596 1039C1600.42 1039 1604 1042.58 1604 1047L1604 1047C1604 1051.42 1600.42 1055 1596 1055L1596 1055C1591.58 1055 1588 1051.42 1588 1047L1588 1047C1588 1042.58 1591.58 1039 1596 1039Z" />
+						</g>
+						<text id="Earning" style="transform: matrix(1,0,0,1,1934,1038.6)" >
+							<tspan x="0" y="18" class="txt7">$96.00</tspan>
+						</text>
+						<path id="Mask" class="shp8" d="M1170 1028L1194 1028C1211.7 1028 1226 1042.3 1226 1060L1226 1084C1226 1101.7 1211.7 1116 1194 1116L1170 1116C1152.3 1116 1138 1101.7 1138 1084L1138 1060C1138 1042.3 1152.3 1028 1170 1028Z" />
+						<g id="Mask by Mask" clip-path="url(#cp5)">
+						</g>
+					</g>
+					<g id="Group 7 Copy 4" style="opacity: 0.102">
+						<g id="Group 6">
+							<g id="Title">
+								<text id="Sugus - Clean &amp; Mini" style="transform: matrix(1,0,0,1,1250,1183)" >
+									<tspan x="0" y="20" class="txt3">Sugus - Clean &amp; Minimal UI Design Kit</tspan>
+								</text>
+								<text id="SketchApp" style="transform: matrix(1,0,0,1,1250,1236.8)" >
+									<tspan x="0" y="14" class="txt4">SketchApp</tspan>
+								</text>
+							</g>
+						</g>
+						<g id="Category">
+							<text id="UI Design" style="transform: matrix(1,0,0,1,1612,1182.6)" >
+								<tspan x="0" y="18" class="txt9">UI Design</tspan>
+							</text>
+							<path id="Rectangle" class="shp13" d="M1596 1184L1596 1184C1600.42 1184 1604 1187.58 1604 1192L1604 1192C1604 1196.42 1600.42 1200 1596 1200L1596 1200C1591.58 1200 1588 1196.42 1588 1192L1588 1192C1588 1187.58 1591.58 1184 1596 1184Z" />
+						</g>
+						<text id="Earning" style="transform: matrix(1,0,0,1,1934,1183.6)" >
+							<tspan x="0" y="18" class="txt7">$96.00</tspan>
+						</text>
+						<path id="Mask" class="shp8" d="M1170 1173L1194 1173C1211.7 1173 1226 1187.3 1226 1205L1226 1229C1226 1246.7 1211.7 1261 1194 1261L1170 1261C1152.3 1261 1138 1246.7 1138 1229L1138 1205C1138 1187.3 1152.3 1173 1170 1173Z" />
+						<g id="Mask by Mask" clip-path="url(#cp6)">
+						</g>
+					</g>
+				</g>
+				<g id="Title Copy">
+					<g id="Group 2">
+						<text id="Earnings By Item Typ" style="opacity: 0.302;transform: matrix(1,0,0,1,1138,267.2)" >
+							<tspan x="0" y="16" class="txt14" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >Earnings By Item Type</tspan>
+						</text>
+					</g>
+				</g>
+			</g>
+			<g id="Group 11">
+				<path id="Rectangle Copy 2" class="shp2" d="M1138 370L1934 370L1934 371L1138 371L1138 370Z" />
+				<text id="Items" style="opacity: 0.502;transform: matrix(1,0,0,1,1138,345)" >
+					<tspan x="0" y="0" class="txt14" dx="0 -1 -1 -1 -1" >Items</tspan>
+				</text>
+				<text id="Category" style="opacity: 0.502;transform: matrix(1,0,0,1,1588,345)" >
+					<tspan x="0" y="0" class="txt14" dx="0 -1 -1 -1 -1 -1 -1 -1" >Category</tspan>
+				</text>
+				<text id="Earned" style="opacity: 0.502;transform: matrix(1,0,0,1,1934,345)" >
+					<tspan x="0" y="0" class="txt15" dx="0 -1 -1 -1 -1 -1" >Earned</tspan>
+				</text>
+			</g>
+		</g>
+		<g id="card 2">
+			<path id="Rectangle Copy 3" class="shp16" d="M126 236L472 236C489.7 236 504 250.3 504 268L504 684C504 701.7 489.7 716 472 716L126 716C108.3 716 94 701.7 94 684L94 268C94 250.3 108.3 236 126 236Z" />
+			<g id="Title">
+				<g id="Group 2">
+					<text id="Earnings By Item Typ" style="opacity: 0.302;transform: matrix(1,0,0,1,126,267.2)" >
+						<tspan x="0" y="16" class="txt14" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >Earnings Report</tspan>
+					</text>
+				</g>
+			</g>
+			<g id="Group 13">
+				<g id="Earning LI">
+					<g id="Group">
+						<text id="Text" style="transform: matrix(1,0,0,1,214,367.4)" >
+							<tspan x="0" y="32" class="txt17">$159.89</tspan>
+						</text>
+						<text id="Total Earning" style="opacity: 0.502;transform: matrix(1,0,0,1,214,349)" >
+							<tspan x="0" y="0" class="txt14" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >Total Earning</tspan>
+						</text>
+					</g>
+					<g id="Money Icon/Icon 1">
+						<path id="Rectangle" class="shp18" d="M146 332L170 332C181.06 332 190 340.94 190 352L190 376C190 387.06 181.06 396 170 396L146 396C134.94 396 126 387.06 126 376L126 352C126 340.94 134.94 332 146 332Z" />
+						<g id="money-growth">
+							<path id="Path" class="shp19" d="M158 375L158 365" />
+							<path id="Path" class="shp19" d="M158 375L158 375C158 371.69 160.69 369 164 369L166 369L166 369C166 372.31 163.31 375 160 375L158 375Z" />
+							<path id="Rectangle" class="shp20" d="M147 353L169 353L169 365L147 365L147 353Z" />
+							<path id="Oval" class="shp20" d="M158 361C159.1 361 160 360.1 160 359C160 357.9 159.1 357 158 357C156.9 357 156 357.9 156 359C156 360.1 156.9 361 158 361Z" />
+						</g>
+					</g>
+					<path id="Rectangle" class="shp21" d="M126 427L472 427L472 428L126 428L126 427Z" />
+				</g>
+				<g id="Earning LI Copy" style="opacity: 0.502">
+					<g id="Group">
+						<text id="Total Earning" style="opacity: 0.502;transform: matrix(1,0,0,1,214,478)" >
+							<tspan x="0" y="0" class="txt14" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >Item Earning</tspan>
+						</text>
+						<text id="Text" style="transform: matrix(1,0,0,1,214,496.4)" >
+							<tspan x="0" y="32" class="txt17">$00.00</tspan>
+						</text>
+					</g>
+					<g id="Money Icon/Icon 1">
+						<path id="Rectangle" class="shp22" d="M146 461L170 461C181.06 461 190 469.94 190 481L190 505C190 516.06 181.06 525 170 525L146 525C134.94 525 126 516.06 126 505L126 481C126 469.94 134.94 461 146 461Z" />
+						<g id="handshake">
+							<path id="Path" class="shp20" d="M160 488L157.83 490.17C156.27 491.73 153.73 491.73 152.17 490.17L152 490L156.93 485.07C159.69 482.31 164.17 482.31 166.93 485.07L166.93 485.07C169.22 487.36 169.66 490.92 168 493.7" />
+							<path id="Path" class="shp19" d="M161.27 491.27L164.88 494.88C166.05 496.05 166.05 497.95 164.88 499.12L163.24 500.76C162.12 501.88 160.59 502.51 159 502.51C157.41 502.51 155.88 501.88 154.76 500.76L149.07 495.07C146.31 492.31 146.31 487.83 149.07 485.07L149.07 485.07C150.38 483.76 152.15 483.02 154 483" />
+							<path id="Path" class="shp23" d="M164.39 499.61L160.5 495.72" />
+							<path id="Path" class="shp23" d="M161.51 501.96L157.88 498.33" />
+						</g>
+					</g>
+					<path id="Rectangle" class="shp21" d="M126 556L472 556L472 557L126 557L126 556Z" />
+				</g>
+				<g id="Earning LI Copy 2" style="opacity: 0.298">
+					<g id="Group">
+						<text id="Text" style="transform: matrix(1,0,0,1,214,621.4)" >
+							<tspan x="0" y="32" class="txt17">$00.00</tspan>
+						</text>
+						<text id="Contributor Bobus" style="opacity: 0.502;transform: matrix(1,0,0,1,214,609)" >
+							<tspan x="0" y="0" class="txt14" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >Contributor Bobus</tspan>
+						</text>
+					</g>
+					<path id="Rectangle" class="shp24" d="M146 589L170 589C181.06 589 190 597.94 190 609L190 633C190 644.06 181.06 653 170 653L146 653C134.94 653 126 644.06 126 633L126 609C126 597.94 134.94 589 146 589Z" />
+					<g id="privacy-policy">
+						<path id="Oval" class="shp25" d="M150.5 616C151.88 616 153 614.88 153 613.5C153 612.12 151.88 611 150.5 611C149.12 611 148 612.12 148 613.5C148 614.88 149.12 616 150.5 616Z" />
+						<path id="Oval" class="shp23" d="M165.5 616C166.88 616 168 614.88 168 613.5C168 612.12 166.88 611 165.5 611C164.12 611 163 612.12 163 613.5C163 614.88 164.12 616 165.5 616Z" />
+						<path id="Path" class="shp20" d="M156 622.84C153.79 622.09 152.88 619 150 619L150 619C148.34 619 147 620.34 147 622L147 631L153 631L153 625" />
+						<path id="Path" class="shp19" d="M160 622.84C162.21 622.09 163.12 619 166 619L166 619C167.66 619 169 620.34 169 622L169 631L163 631L163 625" />
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="card 3">
+			<g id="Group 4">
+				<g id="Group 3">
+					<path id="Shadow" class="shp0" d="M120.5 1521L477.5 1521C482.75 1521 487 1525.25 487 1530.5L487 1530.5C487 1535.75 482.75 1540 477.5 1540L120.5 1540C115.25 1540 111 1535.75 111 1530.5L111 1530.5C111 1525.25 115.25 1521 120.5 1521Z" />
+					<path id="Rectangle" class="shp26" d="M126 1054L472 1054C489.7 1054 504 1068.3 504 1086L504 1502C504 1519.7 489.7 1534 472 1534L126 1534C108.3 1534 94 1519.7 94 1502L94 1086C94 1068.3 108.3 1054 126 1054Z" />
+					<text id="Trendy UI Kit Sweety" style="transform: matrix(1,0,0,1,299,1412)" >
+						<tspan x="0" y="20" class="txt27">Trendy UI Kit</tspan>
+						<tspan x="0" y="42.4" class="txt27">Sweety Styled</tspan>
+					</text>
+					<text id="Download Now" style="transform: matrix(1,0,0,1,299,1469.8)" >
+						<tspan x="0" y="14" class="txt28">Download Now</tspan>
+					</text>
+					<g id="Title">
+						<g id="Group 2">
+							<text id="Earnings By Item Typ" style="opacity: 0.302;transform: matrix(1,0,0,1,126,1085.2)" >
+								<tspan x="0" y="16" class="txt14" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >Earnings By Item Type</tspan>
+							</text>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="card 4">
+			<g id="background">
+				<path id="Shadow" class="shp29" d="M140.5 919L457.5 919C473.81 919 487 932.19 487 948.5L487 948.5C487 964.81 473.81 978 457.5 978L140.5 978C124.19 978 111 964.81 111 948.5L111 948.5C111 932.19 124.19 919 140.5 919Z" />
+				<path id="Rectangle" class="shp30" d="M126 818L472 818C489.7 818 504 832.3 504 850L504 916C504 933.7 489.7 948 472 948L126 948C108.3 948 94 933.7 94 916L94 850C94 832.3 108.3 818 126 818Z" />
+				<g id="Dropdown Icon">
+					<g id="Group 5 Copy 2">
+						<g id="menu icon">
+							<path id="Oval" class="shp31" d="M456 899C464.84 899 472 891.84 472 883C472 874.16 464.84 867 456 867C447.16 867 440 874.16 440 883C440 891.84 447.16 899 456 899Z" />
+							<g id="menu">
+							</g>
+						</g>
+					</g>
+					<path id="Path 2" class="shp32" d="M450 880L456.29 885.9L462.57 880" />
+				</g>
+			</g>
+			<g id="Earning LI Copy">
+				<g id="Group">
+					<text id="Text" style="transform: matrix(1,0,0,1,214,886.4)" >
+						<tspan x="0" y="32" class="txt17">$61.23</tspan>
+					</text>
+					<text id="Total Earning" style="opacity: 0.502;transform: matrix(1,0,0,1,214,868)" >
+						<tspan x="0" y="0" class="txt14" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >Item Earning</tspan>
+					</text>
+				</g>
+				<g id="Money Icon/Icon 1">
+					<path id="Rectangle" class="shp33" d="M142 847L174 847C185.06 847 194 855.94 194 867L194 899C194 910.06 185.06 919 174 919L142 919C130.94 919 122 910.06 122 899L122 867C122 855.94 130.94 847 142 847Z" />
+					<g id="handshake">
+						<path id="Path" class="shp34" d="M160.25 877.37L157.81 879.82C156.05 881.58 153.2 881.58 151.44 879.82L151.25 879.62L156.8 874.08C159.9 870.97 164.94 870.97 168.05 874.08L168.05 874.08C170.62 876.66 171.12 880.66 169.25 883.79" />
+						<path id="Path" class="shp35" d="M161.67 881.05L165.74 885.11C167.06 886.43 167.06 888.57 165.74 889.89L163.9 891.73C162.63 892.99 160.92 893.7 159.12 893.7C157.33 893.7 155.62 892.99 154.35 891.73L147.95 885.33C144.85 882.22 144.85 877.19 147.95 874.08L147.95 874.08C149.43 872.61 151.42 871.77 153.5 871.75" />
+						<path id="Path" class="shp36" d="M165.19 890.44L160.81 886.06" />
+						<path id="Path" class="shp36" d="M161.95 893.09L157.87 889" />
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="card 5">
+			<path id="Shadow" class="shp0" d="M120.5 121L477.5 121C482.75 121 487 125.25 487 130.5L487 130.5C487 135.75 482.75 140 477.5 140L120.5 140C115.25 140 111 135.75 111 130.5L111 130.5C111 125.25 115.25 121 120.5 121Z" />
+			<path id="Rectangle" class="shp37" d="M126 0L472 0C489.7 0 504 14.3 504 32L504 98C504 115.7 489.7 130 472 130L126 130C108.3 130 94 115.7 94 98L94 32C94 14.3 108.3 0 126 0Z" />
+			<g id="Group 5">
+				<g id="Group 18">
+					<g id=" LOGO">
+						<path id="thefox" fill-rule="evenodd" class="shp30" d="M210.81 75.06C210.37 74.89 210.01 74.66 209.72 74.36C209.43 74.06 209.21 73.7 209.06 73.28C208.92 72.86 208.84 72.39 208.84 71.88L208.84 62.75L206.59 62.75L206.59 61.75L208.84 61L208.84 58.16L211.81 56.6L213.08 56.6L213.08 61L216.51 61L216.51 62.75L213.08 62.75L213.08 71.76C213.08 72.04 213.15 72.29 213.3 72.5C213.45 72.71 213.64 72.81 213.87 72.81C214.02 72.81 214.18 72.76 214.36 72.66C214.54 72.56 214.71 72.45 214.87 72.31C215.03 72.18 215.17 72.05 215.29 71.91C215.41 71.77 215.5 71.67 215.56 71.6L217.01 72.74C216.77 73.11 216.51 73.45 216.23 73.76C215.94 74.08 215.62 74.35 215.26 74.58C214.89 74.8 214.47 74.98 214 75.12C213.52 75.25 212.98 75.31 212.36 75.31C211.76 75.31 211.25 75.23 210.81 75.06ZM220.25 75L220.25 55.42L223.27 53.86L224.54 53.86L224.54 62.13C225.19 61.66 225.91 61.31 226.71 61.08C227.51 60.84 228.29 60.73 229.05 60.73C229.62 60.73 230.15 60.84 230.65 61.06C231.14 61.28 231.58 61.59 231.95 61.98C232.32 62.36 232.61 62.82 232.82 63.34C233.04 63.86 233.14 64.41 233.14 64.99L233.14 75L228.88 75L228.88 65.44C228.88 64.72 228.76 64.17 228.53 63.8C228.3 63.42 227.99 63.23 227.62 63.23C227.45 63.23 227.25 63.26 227 63.34C226.75 63.41 226.48 63.52 226.2 63.65C225.91 63.79 225.63 63.95 225.34 64.13C225.06 64.31 224.79 64.51 224.54 64.73L224.54 75L220.25 75ZM241.62 74.76C240.75 74.39 239.99 73.89 239.34 73.27C238.69 72.65 238.18 71.92 237.8 71.1C237.42 70.27 237.23 69.4 237.23 68.48C237.23 67.38 237.41 66.35 237.75 65.41C238.1 64.47 238.59 63.65 239.23 62.96C239.87 62.26 240.63 61.72 241.52 61.33C242.41 60.95 243.4 60.75 244.49 60.75C245.47 60.75 246.36 60.91 247.17 61.22C247.98 61.53 248.68 61.95 249.26 62.49C249.84 63.03 250.29 63.66 250.6 64.39C250.92 65.12 251.08 65.9 251.08 66.73L241.39 66.73C241.43 67.5 241.54 68.24 241.74 68.94C241.93 69.65 242.2 70.26 242.52 70.8C242.85 71.33 243.24 71.75 243.68 72.07C244.12 72.38 244.61 72.54 245.15 72.54C245.61 72.54 246.07 72.46 246.52 72.3C246.97 72.14 247.39 71.92 247.77 71.64C248.16 71.37 248.49 71.04 248.77 70.67C249.06 70.3 249.26 69.9 249.39 69.48L251.55 69.82C251.33 70.57 250.98 71.29 250.5 71.95C250.02 72.62 249.46 73.2 248.82 73.7C248.18 74.2 247.48 74.6 246.72 74.88C245.97 75.17 245.2 75.31 244.43 75.31C243.43 75.31 242.5 75.13 241.62 74.76ZM246.22 65.28C246.18 64.87 246.09 64.49 245.95 64.15C245.81 63.81 245.63 63.52 245.41 63.27C245.19 63.02 244.94 62.83 244.64 62.7C244.35 62.57 244.04 62.5 243.7 62.5C243.44 62.5 243.18 62.57 242.92 62.7C242.67 62.83 242.44 63.02 242.23 63.26C242.03 63.5 241.85 63.8 241.71 64.14C241.57 64.48 241.48 64.86 241.43 65.28L246.22 65.28ZM256.58 75L256.58 62.71L253.85 62.71L253.85 61L256.58 61L256.58 59.44C256.58 58.72 256.73 58.03 257.01 57.36C257.3 56.69 257.7 56.09 258.22 55.57C258.73 55.05 259.34 54.64 260.05 54.33C260.76 54.02 261.53 53.86 262.38 53.86C263.07 53.86 263.67 53.96 264.17 54.14C264.67 54.33 265.1 54.56 265.46 54.83C265.81 55.1 266.11 55.38 266.34 55.67C266.57 55.97 266.75 56.23 266.89 56.46L264.31 57.94C264.24 57.73 264.16 57.48 264.07 57.19C263.97 56.91 263.84 56.63 263.67 56.37C263.49 56.1 263.27 55.88 263.01 55.7C262.74 55.51 262.42 55.42 262.02 55.42C261.64 55.42 261.35 55.61 261.14 55.99C260.93 56.37 260.82 56.94 260.82 57.7L260.82 61L264.31 61L264.31 62.71L260.82 62.71L260.82 75L256.58 75ZM270.57 74.71C269.62 74.35 268.81 73.85 268.12 73.21C267.43 72.57 266.89 71.82 266.51 70.96C266.12 70.1 265.92 69.17 265.92 68.16C265.92 67.09 266.12 66.1 266.51 65.19C266.89 64.28 267.43 63.5 268.11 62.85C268.8 62.19 269.61 61.68 270.55 61.31C271.5 60.94 272.52 60.75 273.64 60.75C274.75 60.75 275.78 60.93 276.73 61.29C277.67 61.65 278.49 62.15 279.18 62.78C279.87 63.41 280.41 64.15 280.8 65C281.19 65.85 281.39 66.77 281.39 67.75C281.39 68.78 281.19 69.75 280.81 70.67C280.42 71.58 279.88 72.37 279.19 73.05C278.5 73.73 277.69 74.27 276.74 74.67C275.79 75.06 274.76 75.26 273.65 75.26C272.54 75.26 271.51 75.08 270.57 74.71ZM275.21 73.17C275.54 72.92 275.82 72.59 276.06 72.16C276.3 71.74 276.49 71.25 276.62 70.69C276.76 70.14 276.82 69.56 276.82 68.96C276.82 68.06 276.76 67.22 276.62 66.43C276.49 65.65 276.27 64.96 275.97 64.36C275.67 63.77 275.28 63.3 274.8 62.96C274.33 62.61 273.74 62.44 273.05 62.44C272.71 62.44 272.39 62.56 272.08 62.8C271.77 63.05 271.49 63.38 271.26 63.8C271.02 64.21 270.83 64.69 270.69 65.23C270.55 65.77 270.48 66.35 270.48 66.95C270.48 67.85 270.56 68.7 270.73 69.5C270.9 70.31 271.14 71.01 271.45 71.6C271.77 72.2 272.15 72.67 272.6 73.02C273.05 73.38 273.57 73.55 274.14 73.55C274.52 73.55 274.88 73.43 275.21 73.17ZM283.67 75L289.06 68.56L283.7 61L288.45 61L291.63 65.48L295.38 61L298.4 61L293.02 67.44L298.39 75L293.63 75L290.45 70.51L286.7 75L283.67 75Z" />
+					</g>
+					<g id="Group 5">
+						<g id="menu icon">
+							<path id="Oval" class="shp30" d="M154 93C169.46 93 182 80.46 182 65C182 49.54 169.46 37 154 37C138.54 37 126 49.54 126 65C126 80.46 138.54 93 154 93Z" />
+							<g id="menu">
+							</g>
+						</g>
+						<path id="Path" class="shp32" d="M143 61.5L165 61.5" />
+						<path id="Path" class="shp32" d="M143 68.5L154 68.5" />
+					</g>
+				</g>
+				<g id="Logo">
+					<path id="Mask" class="shp38" d="M444 93C459.46 93 472 80.46 472 65C472 49.54 459.46 37 444 37C428.54 37 416 49.54 416 65C416 80.46 428.54 93 444 93Z" />
+					<g id="Mask by Mask" clip-path="url(#cp7)">
+						<path id="Rectangle" class="shp39" d="M443.65 37L445.05 37L445.05 72.7L443.65 72.7L443.65 37Z" />
+						<path id="Rectangle Copy" class="shp39" d="M451.14 37L452.54 37L452.54 72.7L451.14 72.7L451.14 37Z" />
+						<path id="Rectangle Copy 2" class="shp39" d="M436.16 37L437.56 37L437.56 72.7L436.16 72.7L436.16 37Z" />
+						<path id="Rectangle Copy 4" class="shp39" d="M447.12 57.03L448.11 56.04L473.36 81.28L472.37 82.27L447.12 57.03Z" />
+						<path id="Rectangle Copy 5" class="shp39" d="M442.23 63.12L443.22 62.13L468.46 87.37L467.47 88.36L442.23 63.12Z" />
+						<path id="Rectangle Copy 6" class="shp39" d="M437.09 68.79L438.08 67.8L463.32 93.04L462.33 94.03L437.09 68.79Z" />
+						<g id="Logo">
+							<path id="Shape" class="shp40" d="M459.35 68.26L459.35 70.97L455.11 74.94L444.33 64.27L444.33 56.51L451.85 53.29L451.85 60.81L459.35 68.26L459.35 68.26Z" />
+							<path id="Shape" class="shp41" d="M455.11 74.94L449.49 80.15L436.81 67.58L436.81 53.29L444.33 56.51L444.33 64.27L455.11 74.94L455.11 74.94Z" />
+							<path id="Shape" class="shp42" d="M449.49 80.15L445.56 83.82C444.87 84.46 443.79 84.46 443.1 83.82L429.3 70.97L429.3 52.78C429.3 52.18 429.6 51.62 430.11 51.29C430.61 50.97 431.25 50.91 431.8 51.15L436.81 53.29L436.81 67.58L449.49 80.15Z" />
+							<path id="Shape" class="shp42" d="M459.35 52.78L459.35 68.26L451.85 60.81L451.85 53.29L456.85 51.15C457.4 50.91 458.04 50.97 458.55 51.29C459.05 51.62 459.35 52.18 459.35 52.78L459.35 52.78Z" />
+						</g>
+					</g>
+				</g>
+				<path id="Path" class="shp32" d="M143 61.5L165 61.5" />
+				<path id="Path" class="shp32" d="M143 68.5L154 68.5" />
+			</g>
+		</g>
+		<g id="card 6">
+			<g id="Group 4">
+				<g id="Group 3">
+					<path id="Shadow" class="shp0" d="M626.5 703L983.5 703C988.75 703 993 707.25 993 712.5L993 712.5C993 717.75 988.75 722 983.5 722L626.5 722C621.25 722 617 717.75 617 712.5L617 712.5C617 707.25 621.25 703 626.5 703Z" />
+					<path id="Rectangle" class="shp43" d="M624 236L986 236C999.27 236 1010 246.73 1010 260L1010 692C1010 705.27 999.27 716 986 716L624 716C610.73 716 600 705.27 600 692L600 260C600 246.73 610.73 236 624 236Z" />
+					<g id="title 1">
+						<g id="Group 2">
+							<text id="Earnings By Item Typ" style="opacity: 0.302;transform: matrix(1,0,0,1,632,267.2)" >
+								<tspan x="0" y="16" class="txt14" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >Earnings By Item Type</tspan>
+							</text>
+						</g>
+					</g>
+				</g>
+				<g id="Shape">
+					<path id="circle 1" fill-rule="evenodd" class="shp44" d="M801.5 593C731.08 593 674 535.92 674 465.5C674 395.08 731.08 338 801.5 338C871.92 338 929 395.08 929 465.5C929 535.92 871.92 593 801.5 593ZM801.5 579.51C864.47 579.51 915.51 528.47 915.51 465.5C915.51 402.53 864.47 351.49 801.5 351.49C738.53 351.49 687.49 402.53 687.49 465.5C687.49 528.47 738.53 579.51 801.5 579.51Z" />
+					<path id="circle 2" fill-rule="evenodd" class="shp44" d="M801 571C741.91 571 694 523.09 694 464C694 404.91 741.91 357 801 357C860.09 357 908 404.91 908 464C908 523.09 860.09 571 801 571ZM801 557.56C852.67 557.56 894.56 515.67 894.56 464C894.56 412.33 852.67 370.44 801 370.44C749.33 370.44 707.44 412.33 707.44 464C707.44 515.67 749.33 557.56 801 557.56Z" />
+					<path id="circle 3" class="shp45" d="M682.84 419.26C684.17 415.78 688.08 414.04 691.56 415.37C695.04 416.71 696.78 420.62 695.44 424.1C672.85 482.95 702.25 548.97 761.1 571.56C819.95 594.15 885.97 564.75 908.56 505.9C931.15 447.05 901.75 381.03 842.9 358.44C831.56 354.09 819.79 351.6 807.92 350.98C804.19 350.79 801.33 347.61 801.53 343.89C801.72 340.16 804.9 337.3 808.62 337.5C821.91 338.19 835.07 340.97 847.74 345.84C913.55 371.1 946.43 444.93 921.16 510.74C895.9 576.55 822.07 609.43 756.26 584.16C690.45 558.9 657.57 485.07 682.84 419.26Z" />
+					<path id="circle 4" class="shp46" d="M809.02 571.23C805.31 571.49 802.09 568.69 801.83 564.99C801.57 561.28 804.37 558.07 808.08 557.81C859.76 554.2 898.73 509.44 895.12 457.84C891.81 410.6 853.72 373.41 806.78 370.87C803.07 370.67 800.22 367.5 800.42 363.79C800.62 360.08 803.8 357.24 807.51 357.44C861.22 360.35 904.78 402.87 908.56 456.9C912.69 515.91 868.12 567.1 809.02 571.23Z" />
+					<g id="Text">
+						<text id="Text" style="transform: matrix(1,0,0,1,800.535,469)" >
+							<tspan x="0" y="0" class="txt47" dx="0 -2 -2 -2 -2 -2 -2" >$159.89</tspan>
+						</text>
+						<text id="Text" style="opacity: 0.502;transform: matrix(1,0,0,1,801.5,476.4)" >
+							<tspan x="0" y="12" class="txt48">Total Earning</tspan>
+						</text>
+					</g>
+				</g>
+			</g>
+			<g id="Group 9">
+				<g id="Group 8">
+					<path id="mark 1" class="shp49" d="M640 664L644 664C648.42 664 652 667.58 652 672L652 676C652 680.42 648.42 684 644 684L640 684C635.58 684 632 680.42 632 676L632 672C632 667.58 635.58 664 640 664Z" />
+					<text id="Graphic Template" style="transform: matrix(1,0,0,1,664,678)" >
+						<tspan x="0" y="0" class="txt4">Graphic Template</tspan>
+					</text>
+				</g>
+				<path id="Rectangle" class="shp21" d="M632 639L978 639L978 640L632 640L632 639Z" />
+				<g id="Group 8 Copy">
+					<path id="mark 2" class="shp50" d="M827 664L831 664C835.42 664 839 667.58 839 672L839 676C839 680.42 835.42 684 831 684L827 684C822.58 684 819 680.42 819 676L819 672C819 667.58 822.58 664 827 664Z" />
+					<text id="UI Design" style="transform: matrix(1,0,0,1,851,678)" >
+						<tspan x="0" y="0" class="txt4">UI Design</tspan>
+					</text>
+				</g>
+			</g>
+		</g>
+		<g id="card 7">
+			<g id="Group 4">
+				<g id="Group 3">
+					<path id="Shadow" class="shp51" d="M705 1225L905 1225C945.37 1225 978 1257.63 978 1298L978 1298C978 1338.37 945.37 1371 905 1371L705 1371C664.63 1371 632 1338.37 632 1298L632 1298C632 1257.63 664.63 1225 705 1225Z" />
+					<path id="Rectangle" class="shp30" d="M632 818L978 818C995.7 818 1010 832.3 1010 850L1010 1266C1010 1283.7 995.7 1298 978 1298L632 1298C614.3 1298 600 1283.7 600 1266L600 850C600 832.3 614.3 818 632 818Z" />
+					<text id="Sugus - Clean &amp; Mini" style="transform: matrix(1,0,0,1,805,1176)" >
+						<tspan x="0" y="20" class="txt27">Sugus - Clean &amp; Minimal UI Design Kit</tspan>
+					</text>
+					<text id="SketchApp, Adobe Ill" style="transform: matrix(1,0,0,1,805,1233.8)" >
+						<tspan x="0" y="14" class="txt28">SketchApp, Adobe Illustration</tspan>
+					</text>
+					<g id="Title">
+						<g id="Group 2">
+							<text id="Earnings By Item Typ" style="opacity: 0.302;transform: matrix(1,0,0,1,632,849.2)" >
+								<tspan x="0" y="16" class="txt14" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >Earnings By Item Type</tspan>
+							</text>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="card 8">
+			<g id="background">
+				<path id="Shadow" class="shp0" d="M1638.5 121L1995.5 121C2000.75 121 2005 125.25 2005 130.5L2005 130.5C2005 135.75 2000.75 140 1995.5 140L1638.5 140C1633.25 140 1629 135.75 1629 130.5L1629 130.5C1629 125.25 1633.25 121 1638.5 121Z" />
+				<path id="Rectangle" class="shp30" d="M1644 0L1990 0C2007.7 0 2022 14.3 2022 32L2022 98C2022 115.7 2007.7 130 1990 130L1644 130C1626.3 130 1612 115.7 1612 98L1612 32C1612 14.3 1626.3 0 1644 0Z" />
+				<g id="Dropdown Icon">
+					<g id="Group 5 Copy 2">
+						<g id="menu icon">
+							<path id="Oval" class="shp31" d="M1974 81C1982.84 81 1990 73.84 1990 65C1990 56.16 1982.84 49 1974 49C1965.16 49 1958 56.16 1958 65C1958 73.84 1965.16 81 1974 81Z" />
+							<g id="menu">
+							</g>
+						</g>
+					</g>
+					<path id="Path 2" class="shp32" d="M1968 62L1974.29 67.9L1980.57 62" />
+				</g>
+			</g>
+			<g id="Earning LI">
+				<g id="Group">
+					<text id="Text" style="transform: matrix(1,0,0,1,1728,68.4)" >
+						<tspan x="0" y="32" class="txt17">$159.89</tspan>
+					</text>
+					<text id="Total Earning" style="opacity: 0.502;transform: matrix(1,0,0,1,1728,50)" >
+						<tspan x="0" y="0" class="txt14" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >Total Earning</tspan>
+					</text>
+				</g>
+				<g id="Money Icon/Icon 1">
+					<path id="Rectangle" class="shp52" d="M1660 33L1684 33C1695.06 33 1704 41.94 1704 53L1704 77C1704 88.06 1695.06 97 1684 97L1660 97C1648.94 97 1640 88.06 1640 77L1640 53C1640 41.94 1648.94 33 1660 33Z" />
+					<g id="money-growth">
+						<path id="Path" class="shp19" d="M1672 76L1672 66" />
+						<path id="Path" class="shp19" d="M1672 76L1672 76C1672 72.69 1674.69 70 1678 70L1680 70L1680 70C1680 73.31 1677.31 76 1674 76L1672 76Z" />
+						<path id="Rectangle" class="shp20" d="M1661 54L1683 54L1683 66L1661 66L1661 54Z" />
+						<path id="Oval" class="shp20" d="M1672 62C1673.1 62 1674 61.1 1674 60C1674 58.9 1673.1 58 1672 58C1670.9 58 1670 58.9 1670 60C1670 61.1 1670.9 62 1672 62Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="card 9">
+			<g id="background copy 2">
+				<path id="Shadow" class="shp53" d="M1144 121L1478 121C1489.61 121 1499 130.39 1499 142L1499 142C1499 153.61 1489.61 163 1478 163L1144 163C1132.39 163 1123 153.61 1123 142L1123 142C1123 130.39 1132.39 121 1144 121Z" />
+				<path id="Rectangle" class="shp30" d="M1138 0L1484 0C1501.7 0 1516 14.3 1516 32L1516 98C1516 115.7 1501.7 130 1484 130L1138 130C1120.3 130 1106 115.7 1106 98L1106 32C1106 14.3 1120.3 0 1138 0Z" />
+			</g>
+			<g id="Dropdown List">
+				<g id="Dropdown Icon">
+					<g id="Group 5 Copy 2">
+						<g id="menu icon">
+							<path id="Oval" class="shp30" d="M1468 81C1476.84 81 1484 73.84 1484 65C1484 56.16 1476.84 49 1468 49C1459.16 49 1452 56.16 1452 65C1452 73.84 1459.16 81 1468 81Z" />
+							<g id="menu">
+							</g>
+						</g>
+					</g>
+					<path id="Path 2" class="shp32" d="M1462 62L1468.29 67.9L1474.57 62" />
+				</g>
+				<text id="January 2020" style="opacity: 0.902;transform: matrix(1,0,0,1,1146,72)" >
+					<tspan x="0" y="0" class="txt54">January 2020</tspan>
+				</text>
+			</g>
+		</g>
+		<g id="card 10">
+			<g id="Group 12 Copy 2">
+				<g id="background copy 2">
+					<path id="Shadow" class="shp55" d="M981.5 357L1110.5 357C1119.07 357 1126 363.93 1126 372.5L1126 372.5C1126 381.07 1119.07 388 1110.5 388L981.5 388C972.93 388 966 381.07 966 372.5L966 372.5C966 363.93 972.93 357 981.5 357Z" />
+					<path id="Rectangle" class="shp30" d="M954 295L1066 295C1079.27 295 1090 305.73 1090 319L1090 351C1090 364.27 1079.27 375 1066 375L954 375C940.73 375 930 364.27 930 351L930 319C930 305.73 940.73 295 954 295Z" />
+				</g>
+			</g>
+			<g id="Group 8 Copy">
+				<path id="Rectangle" class="shp56" d="M966.2 324L970.8 324C975.89 324 980 328.11 980 333.2L980 337.8C980 342.89 975.89 347 970.8 347L966.2 347C961.11 347 957 342.89 957 337.8L957 333.2C957 328.11 961.11 324 966.2 324Z" />
+				<text id="UI Design" style="transform: matrix(1,0,0,1,993.8,339.4)" >
+					<tspan x="0" y="0" class="txt57">UI Design</tspan>
+				</text>
+			</g>
+		</g>
+		<g id="card 11">
+			<g id="background copy 2">
+				<path id="Shadow" class="shp58" d="M626.5 121L983.5 121C988.75 121 993 125.25 993 130.5L993 130.5C993 135.75 988.75 140 983.5 140L626.5 140C621.25 140 617 135.75 617 130.5L617 130.5C617 125.25 621.25 121 626.5 121Z" />
+				<path id="Rectangle" class="shp59" d="M632 0L978 0C995.7 0 1010 14.3 1010 32L1010 98C1010 115.7 995.7 130 978 130L632 130C614.3 130 600 115.7 600 98L600 32C600 14.3 614.3 0 632 0Z" />
+				<g id="search">
+					<path id="Shape" fill-rule="evenodd" class="shp60" d="M948 63C948 58.03 952.03 54 957 54C961.97 54 966 58.03 966 63C965.99 67.97 961.97 71.99 957 72C952.03 72 948 67.97 948 63ZM957 56C953.13 56 950 59.13 950 63C950 66.87 953.13 70 957 70C960.87 70 964 66.87 964 63C964 59.14 960.86 56 957 56Z" />
+					<path id="Path" class="shp60" d="M954 63L952 63C952 60.24 954.24 58 957 58L957 60C955.34 60 954 61.34 954 63L954 63Z" />
+					<path id="Path" class="shp60" d="M969.71 74.29L965.45 70.04C965.02 70.55 964.55 71.02 964.04 71.45L968.29 75.71C968.69 76.09 969.31 76.08 969.69 75.69C970.08 75.31 970.09 74.69 969.71 74.29L969.71 74.29Z" />
+				</g>
+			</g>
+			<g id="Dropdown List">
+				<text id="Search" style="opacity: 0.902;transform: matrix(1,0,0,1,640,72)" >
+					<tspan x="0" y="0" class="txt54">Search</tspan>
+				</text>
+			</g>
+		</g>
+		<g id="card 12">
+			<g id="Background Copy">
+				<path id="Shadow" class="shp61" d="M1215.47 478.97L1920.19 478.97C1963.03 478.97 1997.66 513.6 1997.66 556.44L1997.66 556.44C1997.66 599.28 1963.03 633.91 1920.19 633.91L1215.47 633.91C1172.63 633.91 1138 599.28 1138 556.44L1138 556.44C1138 513.6 1172.63 478.97 1215.47 478.97Z" />
+				<path id="Mask" class="shp30" d="M1170 401L1990 401C2007.7 401 2022 415.3 2022 433L2022 523.94C2022 541.63 2007.7 555.94 1990 555.94L1170 555.94C1152.3 555.94 1138 541.63 1138 523.94L1138 433C1138 415.3 1152.3 401 1170 401Z" />
+			</g>
+			<g id="Group 7">
+				<g id="Group 6">
+					<g id="Title">
+						<text id="Minimal 3D Illustrat" style="transform: matrix(1,0,0,1,1281.942,444.983)" >
+							<tspan x="0" y="20" class="txt3">Minimal 3D Illustrations - Sugus UI Kit</tspan>
+						</text>
+						<text id="Adobe Illustration" style="transform: matrix(1,0,0,1,1281.942,498.76)" >
+							<tspan x="0" y="14" class="txt4">Adobe Illustration</tspan>
+						</text>
+					</g>
+				</g>
+				<path id="Mask" class="shp8" d="M1201.97 434.99L1225.96 434.99C1243.65 434.99 1257.95 449.28 1257.95 466.97L1257.95 490.96C1257.95 508.65 1243.65 522.95 1225.96 522.95L1201.97 522.95C1184.29 522.95 1169.99 508.65 1169.99 490.96L1169.99 466.97C1169.99 449.28 1184.29 434.99 1201.97 434.99Z" />
+				<g id="Mask by Mask" clip-path="url(#cp8)">
+				</g>
+			</g>
+		</g>
+		<g id="card 13">
+			<g id="Group 12 Copy 2">
+				<g id="background copy 2">
+					<path id="Shadow" class="shp55" d="M1672.5 479L1810.5 479C1820.18 479 1828 486.82 1828 496.5L1828 496.5C1828 506.18 1820.18 514 1810.5 514L1672.5 514C1662.82 514 1655 506.18 1655 496.5L1655 496.5C1655 486.82 1662.82 479 1672.5 479Z" />
+					<path id="Rectangle" class="shp30" d="M1641 416.82L1778 416.82C1791.27 416.82 1802 427.55 1802 440.82L1802 472.82C1802 486.09 1791.27 496.82 1778 496.82L1641 496.82C1627.73 496.82 1617 486.09 1617 472.82L1617 440.82C1617 427.55 1627.73 416.82 1641 416.82Z" />
+					<g id="Category">
+						<text id="Illustrations" style="transform: matrix(1,0,0,1,1667.99,447.6)" >
+							<tspan x="0" y="18" class="txt62">Illustrations</tspan>
+						</text>
+						<path id="Rectangle" class="shp63" d="M1652 449L1652 449C1656.42 449 1659.99 452.57 1659.99 457L1659.99 457C1659.99 461.42 1656.42 464.99 1652 464.99L1652 464.99C1647.57 464.99 1644 461.42 1644 457L1644 457C1644 452.57 1647.57 449 1652 449Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="card 14">
+			<g id="Group 12 Copy 2">
+				<g id="background copy 2">
+					<path id="Shadow" class="shp55" d="M1919.5 483L2000.5 483C2010.18 483 2018 490.82 2018 500.5L2018 500.5C2018 510.18 2010.18 518 2000.5 518L1919.5 518C1909.82 518 1902 510.18 1902 500.5L1902 500.5C1902 490.82 1909.82 483 1919.5 483Z" />
+					<path id="Rectangle" class="shp30" d="M1895 421.82L1973 421.82C1986.27 421.82 1997 432.55 1997 445.82L1997 477.82C1997 491.09 1986.27 501.82 1973 501.82L1895 501.82C1881.73 501.82 1871 491.09 1871 477.82L1871 445.82C1871 432.55 1881.73 421.82 1895 421.82Z" />
+					<text id="Earning" style="transform: matrix(1,0,0,1,1934,452.6)" >
+						<tspan x="0" y="18" class="txt64">$19.00</tspan>
+					</text>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

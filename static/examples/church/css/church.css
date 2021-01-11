@@ -1,0 +1,55 @@
+
+#churchJumbo{
+    background: url('../img/field.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center
+}
+
+#header-text{
+    position: relative;
+    top: 100px;
+}
+
+#lead-text{
+    max-width: 720px;
+}
+
+.text-info{
+    color: #4db6ac !important;
+}
+
+.btn-info{
+    background-color: #4db6ac !important;
+    border: none;
+}
+
+.bg-info{
+    background-color: #4db6ac !important;
+}
+
+.icon01{
+    padding: 50px;
+    font-size: 5em; 
+    color:#4db6ac; 
+}
+
+.icon02{
+    padding: 50px;
+    font-size: 5em; 
+    color:#78a300; 
+}
+
+.icon03{
+    padding: 50px;
+    font-size: 5em; 
+    color:#ffc400; 
+}
+
+/* Footer */
+#footer-bottom{
+    background-color: rgb(153, 153, 153) !important;
+}
+
+

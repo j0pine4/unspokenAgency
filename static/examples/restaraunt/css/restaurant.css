@@ -1,0 +1,67 @@
+#header-img{
+    display: flex;
+    flex-direction: column;
+    background-image: url('../img/Burger_low.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    justify-content: center;
+}
+
+.display-1{
+    margin-left: 0;
+    font-size: 15vw;
+}
+
+h1.brush{
+    /* font-family: 'Finger Paint', cursive; */
+    font-family: 'Permanent Marker', cursive;
+}
+
+#yellow-back{
+    background-image: url('../img/burger-illustration.png');
+    background-position: center;
+    /* background-size: cover; */
+    background-color: #FFB901;
+    padding: 50px 0px;
+}
+
+.feature-item{
+    padding: 20px;
+}
+
+.btn{
+    padding: 10px 40px;
+    border: 2px solid black;
+}
+
+#best-offer{
+    padding: 50px 0px;
+}
+
+#order-now{
+    background-image: url('../img/black_burger.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 80vh;
+    padding: 50px 0px;
+}
+
+.order-now{
+    position: relative;
+    top: 50vh;
+}
+
+#triple-burger{
+    display: flex;
+    align-items: center;
+}
+
+@media only screen and (max-width: 720px) {
+    #order-now{
+        /* background-image: url('img/restaurant/black_burger.jpg');
+        background-size: cover;
+        background-position: center; */
+        min-height: 30vh;
+    }
+  }

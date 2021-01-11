@@ -1,0 +1,250 @@
+{% load static %}
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{% static 'examples/church/css/church.css'%}">
+    
+    <title>Church Example</title>
+    
+  </head>
+  <body>
+
+    <!-- Nav Bar -->
+    <ul class="nav justify-content-end m-5">
+      <li class="nav-item">
+        <a class="nav-link active text-warning" href="#">HOME</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-danger" href="#">WHO WE ARE</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-danger" href="#">FAMILY</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-danger" href="#">EVENTS</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-danger" href="#">LISTEN</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-danger" href="#">GIVE</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-danger" href="#">CONTACT</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-success border border-success" href="#">NEXT STEPS</a>
+      </li>
+
+    </ul>
+
+    <!-- Header -->
+    <div class="jumbotron text-white" id="churchJumbo">
+      <div class="container p-5 mb-5" id="header-text">
+        <h1 class="display-1 mt-5"> <strong> welcome </strong> </h1>
+        <p class="lead"> <i> to the Church of God Online </i> </p>
+        <a class="btn btn-info btn-lg mb-5" href="#" role="button">Listen to this weeks audio</a>
+      </div>
+    </div>
+
+    <!-- Content -->
+    <div class="container mt-5" id="lead-text">
+
+      <!-- Intro Text -->
+      <header class="container mx-5" id="">
+          <h2 class="text-danger text-center display-5 mb-3"> PLANT  GROW  HARVEST </h2>
+          <p class="lead text-center"> Our desire is to <strong> PLANT </strong> seeds of faith, <strong> GROW </strong> our relationships with God and others, and join in the <strong> HARVEST </strong> as we serve God with our neighbors </p>
+      </header>
+
+    </div>
+
+      <!-- Images -->
+      <div class="container my-5">
+
+        <div class="row my-5 align-items-center pb-5">
+          <div class="col-lg-6"> 
+                <img src="{% static 'examples/church/img/worship.jpg'%}" class="card-img-top shadow">
+          </div>
+
+          <div class="col-lg-1"> 
+
+          </div>
+
+          <div class="col-lg-5 "> 
+            <h1 class="display-5 text-info pb-3"> JOIN US SUNDAYS AT 9:30AM </h1>
+            <p class="lead pb-3"> Come as you are, dress up or dress down. You will find a welcoming atmosphere where you can learn about faith in God at your own pace. We have steps to help you along in your journey. We'll share truth with you and answer any of your questions. </p>
+            <button class="btn btn-info"> MAP & DIRECTIONS </button>
+          </div>
+        </div>
+
+        <div class="row my-5 align-items-center">
+          <div class="col-lg-6"> 
+                <img src="{% static 'examples/church/img/study.jpg'%}" class="card-img-top shadow">
+          </div>
+
+          <div class="col-lg-1"> 
+
+          </div>
+
+          <div class="col-lg-5 "> 
+            <h1 class="display-5 text-info pb-3"> CURRENT TEACHING SERIES: </h1>
+            <p class="lead pb-3"> In October we will be taking a journey through the New Testament book of James. The half-brother of Jesus. Giving an inside look into how our faith intersects with life in the midst of a broken world. </p>
+            <button class="btn btn-info"> LISTEN & FOLLOW </button>
+          </div>
+        </div>
+
+        <hr>
+
+      </div>
+
+      <!-- What Were About Section -->
+
+      <section class="container mt-5" id="lead-text">
+
+        <!-- Header Text -->
+        <header class="container mx-5" id="">
+            <h2 class="text-danger text-center display-5 mb-3"> What we're all about </h2>
+        </header>
+  
+      </section>
+
+      <section class="container my-5 "> 
+        <div class="row mb-5">
+          <div class="col s12 m4 text-center mt-5">
+            <span class="icon01">
+              <i class="fas fa-seedling"></i>
+            </span>
+            <h1 class="text-info"> PLANT </h1>
+            <p> Jesus used the illustration of a seed as God's word planted in the hearts and minds of people. Our mission is to <strong> spread the Good News of Jesus </strong> and invite people to follow Jesus </p>
+          </div>
+          <div class="col s12 m4 text-center mt-5">
+            <span class="icon02">
+              <i class="fas fa-leaf"></i>
+            </span>
+            <h1 class="text-info"> GROW </h1>
+            <p> Our desire is to be close to God and worship in community. Encouraging and Challenging, <strong> depending on and supporting each other in our journey </strong> together with Jesus </p>
+          </div>
+          <div class="col s12 m4 text-center mt-5">
+            <span class="icon03">
+              <i class="fab fa-pagelines"></i>
+            </span>
+            <h1 class="center-align text-info"> HARVEST </h1>
+            <p> We seek to partner with Christ, knowing we are sent into the world to love and serve God and others. <strong> Inviting friends, family, and neigbors </strong> to follow Jesus </p>
+          </div>
+        </div>
+
+        <div class="text-center">
+          <button class="btn btn-large bg-warning text-white p-3 shadow my-5"> TAKE NEXT STEPS WITH US </button>
+        </div>
+
+        <hr>
+
+      </section>
+
+      <section class="container my-5" >
+
+        <!-- Header Text -->
+        <header class="container mx-5 mb-5" id="">
+            <h2 class="text-danger text-center display-5 mb-3"> Visiting Zion for the first time? </h2>
+            <p class="lead text-center my-5"> We would love to stay in touch! Click below to tell us you visited or plan on visiting us. </p>
+          </header>
+
+          <div class="text-center">
+            <button class="btn btn-info text-white p-3 shadow my-1"> I'M NEW TO ZION! </button>
+          </div>          
+  
+      </section>
+
+      <!-- Footer Section -->
+      <footer>
+        <div class="wrapper bg-info" id="footer-top">
+          <div class="container">
+            <div class="row">
+              <!-- Social Links -->
+              <div class="col-sm-12 col-md-4">
+                <ul class="nav justify-content-end m-5">
+                  <li class="nav-item">
+                    <a class="nav-link active text-white" href="#">
+                      <i class="fab fa-facebook-f"></i>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                      <i class="fab fa-instagram"></i>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                      <i class="fab fa-twitter"></i>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                      <i class="fas fa-envelope-open-text"></i>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <!-- Links -->
+              <div class="col-sm-12 col-md-8">
+                <ul class="nav justify-content-end m-5">
+                  <li class="nav-item">
+                    <a class="nav-link active text-warning" href="#">
+                      NEXT STEPS
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link text-warning" href="#">
+                      EVENTS
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link text-warning" href="#">
+                      LISTEN
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link text-warning" href="#">
+                     GIVE
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="wrapper bg-info pt-5 pb-3" id="footer-bottom">
+          <div class="container">
+            <p class="text-white text-center"> Zion Christian Church </p>
+            <p class="text-white text-center"> 555 N Johnson St, FakeVille Illinois </p>
+            <p class="text-white text-center"> (555) 555-5555 / fakeMail@fakeMail.com </p>
+          </div>
+        </div>
+      </footer>
+
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
+    <!-- Option 2: jQuery, Popper.js, and Bootstrap JS
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
