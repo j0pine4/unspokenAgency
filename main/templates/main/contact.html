@@ -1,0 +1,20 @@
+{% extends 'main/base.html' %}
+{% load static %}
+
+{% block content %}
+
+<div class="wrapper" id="card-deck">
+    <div class="container text-center my-5" >
+        <div class="p-5 rounded my-5">
+            <div class="bg-light p-5 rounded shadow">
+                <h1 class="display-1 m-5 p-5"> Hello {{ name }}! </h1>
+                <h1 class="display-4 text-center my-5">  Thank you for requesting a consultation on {{ date }} at {{ time }}!  </h1>
+                <img src="{% static 'index/img/confirmed.svg' %}" alt="" class="img-fluid">
+                <h1 class="display-6 text-center my-5">  We are processing your request, and will contact you back at {{ email }}  </h1>
+                <p class="lead"> Click or Touch the Unspoken Design Text to navigate back to the home screen </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
