@@ -168,4 +168,49 @@ img{
     
 }
 
+@media only screen and (max-width:400px) {
+   img{
+       display: none;
+   }
+
+   .nav-list{
+       padding: 0px;
+   }
+
+   .main-tag{
+        font-size: 1rem;
+    }
+
+    .logo{
+        display: none;
+    }
+
+    .main-content{
+        padding: 10px 10px;
+        margin: 10px;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .container{
+        /* Sizing */
+        margin: 10px;
+        height: 90%;
+        width: 90%;
+    
+        /* Color */
+        background: rgb(255,255,255);
+        border: 1px solid rgba(255,255,255, 0.6);
+        background: linear-gradient(90deg, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0.2) 100%);
+        backdrop-filter: blur(15px);
+        border-radius: 10px;
+    
+    }
+
+    .btn-order{
+        display: none;
+    }
+    
+}
+
 
